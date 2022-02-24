@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  font-family: 'Hiragino Kaku Gothic Pro', 'Meiryo', sans-serif;
+  min-height: 100vh;
+}
+/*# sourceMappingURL=index.css.map */
